@@ -3,6 +3,6 @@
   "description": "kreaStream",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/kreadir/kreaStream/main/plugins.json"
+    "https://raw.githubusercontent.com/trmame/kreaStream/main/plugins.json"
   ]
 }
