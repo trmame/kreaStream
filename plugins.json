@@ -1,6 +1,6 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/kreadir/kreaStream/main/Aio.cs3",
+        "url": "https://raw.githubusercontent.com/trmame/kreaStream/main/Aio.cs3",
         "status": 1,
         "version": 260411,
         "name": "Aio",
@@ -10,7 +10,7 @@
         ],
         "description": "AIO - Türk TV Dizi ve Kanalları",
         "fileSize": 276268,
-        "repositoryUrl": "https://raw.githubusercontent.com/kreadir/kreaStream/",
+        "repositoryUrl": "https://raw.githubusercontent.com/trmame/kreaStream/",
         "tvTypes": [
             "TvSeries",
             "Movie",
@@ -25,7 +25,7 @@
         "language": "tr"
     },
     {
-        "url": "https://raw.githubusercontent.com/kreadir/kreaStream/main/Ddizi.cs3",
+        "url": "https://raw.githubusercontent.com/trmame/kreaStream/main/Ddizi.cs3",
         "status": 1,
         "version": 260321,
         "name": "Ddizi",
@@ -35,7 +35,7 @@
         ],
         "description": "DDizi.im için Cloudstream eklentisi",
         "fileSize": 21806,
-        "repositoryUrl": "https://raw.githubusercontent.com/kreadir/kreaStream/",
+        "repositoryUrl": "https://raw.githubusercontent.com/trmame/kreaStream/",
         "tvTypes": [
             "TvSeries"
         ],
